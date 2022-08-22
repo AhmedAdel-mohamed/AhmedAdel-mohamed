@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AhmedAdel-mohamed</h1>
 <h3 align="center">A passionate Backend developer and,wordpress from egypt</h3>
 
-<img align="right" alt="GIF" height="400px"
+<img align="right" alt="GIF" height="300px"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <h3 align="left">Connect with me:</h3>
@@ -49,13 +49,13 @@
     </p>
 </div>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedadel-mohamed&show_icons=true&locale=en&layout=compact"
-        alt="ahmedadel-mohamed" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ahmedadel-mohamed&show_icons=true&locale=en"
-        alt="ahmedadel-mohamed" /></p>
+<a target="_blank" rel="noopener noreferrer"
+    href="https://camo.githubusercontent.com/05290924b51d5bb14277d451a22a7979cbc7607784425fab8466a7cd7f31e3b2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d44656c74613435362673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565"><img
+        src="https://camo.githubusercontent.com/05290924b51d5bb14277d451a22a7979cbc7607784425fab8466a7cd7f31e3b2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d44656c74613435362673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565"
+        alt="Swastik Baranwal's GitHub Stats"
+        data-canonical-src="https://github-readme-stats.vercel.app/api?username=Delta456&amp;show_icons=true&amp;include_all_commits=true"
+        style="max-width: 100%;"></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedadel-mohamed&"
         alt="ahmedadel-mohamed" /></p>
